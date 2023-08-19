@@ -1,0 +1,257 @@
+.framebermich1600px-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.framebermich1600px-framebermich1600px {
+  width: 100%;
+  height: 1292px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-hintergrundfarbe);
+}
+.framebermich1600px-rechteck-links {
+  top: -115px;
+  left: -258.7655029296875px;
+  width: 759px;
+  height: 1163px;
+  position: absolute;
+}
+.framebermich1600px-rechteck-rechts {
+  top: -131px;
+  left: 1466.93212890625px;
+  width: 703px;
+  height: 1225px;
+  position: absolute;
+}
+.framebermich1600px-rechteck-mitte {
+  top: -138.9932098388672px;
+  left: 499.7392272949219px;
+  width: 967px;
+  height: 1214px;
+  position: absolute;
+}
+.framebermich1600px-text {
+  top: 356px;
+  left: 602px;
+  color: rgba(119, 206, 37, 1);
+  height: auto;
+  position: absolute;
+  font-size: 64px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  font-style: Regular;
+  text-align: left;
+  font-family: Tektur;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-text01 {
+  color: var(--dl-color-default-primrfarbe);
+}
+.framebermich1600px-text02 {
+  color: var(--dl-color-default-schriftfarewei);
+}
+.framebermich1600px-kopfzeile {
+  top: 10px;
+  left: 30px;
+  width: 100%;
+  height: 161.1354522705078px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.framebermich1600px-logo {
+  top: 0px;
+  left: 0px;
+  width: 140px;
+  height: 161px;
+  position: absolute;
+}
+.framebermich1600px-links-buttons {
+  gap: 110px;
+  top: 27px;
+  left: 223px;
+  width: 100%;
+  display: flex;
+  position: absolute;
+  align-items: center;
+}
+.framebermich1600px-text19 {
+  color: var(--dl-color-default-schriftfarewei);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-text21 {
+  color: var(--dl-color-default-schriftfarewei);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-text23 {
+  color: var(--dl-color-default-schriftfarewei);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-frame3 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.framebermich1600px-vector {
+  width: 36px;
+  height: 36px;
+}
+.framebermich1600px-text25 {
+  color: var(--dl-color-default-schriftfarewei);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-beispielbild {
+  top: 145px;
+  left: 523px;
+  width: 304px;
+  height: 901px;
+  position: absolute;
+}
+.framebermich1600px-layer-blur2 {
+  top: 514px;
+  left: 457px;
+  width: 875px;
+  height: 35px;
+  position: absolute;
+}
+.framebermich1600px-layer-blur1 {
+  top: 191.5078125px;
+  left: 393.60888671875px;
+  width: 875px;
+  height: 35px;
+  position: absolute;
+}
+.framebermich1600px-startseite5 {
+  top: 1055px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  padding: 8px 30px;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  justify-content: center;
+  background-color: var(--dl-color-default-tertirfarbe);
+}
+.framebermich1600px-startseite-text {
+  gap: 24px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.framebermich1600px-frame8 {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.framebermich1600px-text27 {
+  color: rgba(33, 37, 29, 1);
+  height: auto;
+  font-size: 52px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Tektur;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-text28 {
+  color: var(--dl-color-default-hintergrundfarbe);
+}
+.framebermich1600px-text29 {
+  color: var(--dl-color-default-sekundrfarbe);
+}
+.framebermich1600px-text30 {
+  color: var(--dl-color-default-hintergrundfarbe);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: center;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-frame7 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.framebermich1600px-vector1 {
+  width: 36px;
+  height: 36px;
+}
+.framebermich1600px-text35 {
+  color: var(--dl-color-default-hintergrundfarbe);
+  height: auto;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Chakra Petch;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.framebermich1600px-copyright {
+  gap: 10px;
+  width: 1600px;
+  display: flex;
+  padding: 0 569px 8px 30px;
+  overflow: hidden;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-default-tertirfarbe);
+}
+.framebermich1600px-text37 {
+  color: var(--dl-color-default-hintergrundfarbe);
+  height: auto;
+  text-align: center;
+  line-height: normal;
+}
